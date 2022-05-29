@@ -1,0 +1,9 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+::placeholder {
+  color: #0F4339;
+  opacity: 1; /* Firefox */
+}

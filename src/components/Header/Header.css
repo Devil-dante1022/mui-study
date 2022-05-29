@@ -1,0 +1,7 @@
+@font-face {
+  font-family: Quicksand;
+  src: url('../../assets/font//Quicksand/Quicksand.ttf');
+}
+.underlineNone{
+  text-decoration: none;
+}
